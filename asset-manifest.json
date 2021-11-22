@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/it-samurai/static/css/main.4e3f88fc.chunk.css",
+    "main.js": "/it-samurai/static/js/main.f87fe084.chunk.js",
+    "main.js.map": "/it-samurai/static/js/main.f87fe084.chunk.js.map",
+    "runtime-main.js": "/it-samurai/static/js/runtime-main.54fe82b8.js",
+    "runtime-main.js.map": "/it-samurai/static/js/runtime-main.54fe82b8.js.map",
+    "static/js/2.d969b46c.chunk.js": "/it-samurai/static/js/2.d969b46c.chunk.js",
+    "static/js/2.d969b46c.chunk.js.map": "/it-samurai/static/js/2.d969b46c.chunk.js.map",
+    "static/js/3.bdf150e7.chunk.js": "/it-samurai/static/js/3.bdf150e7.chunk.js",
+    "static/js/3.bdf150e7.chunk.js.map": "/it-samurai/static/js/3.bdf150e7.chunk.js.map",
+    "index.html": "/it-samurai/index.html",
+    "static/css/main.4e3f88fc.chunk.css.map": "/it-samurai/static/css/main.4e3f88fc.chunk.css.map",
+    "static/js/2.d969b46c.chunk.js.LICENSE.txt": "/it-samurai/static/js/2.d969b46c.chunk.js.LICENSE.txt",
+    "static/media/preloader.4b4fa2fc.svg": "/it-samurai/static/media/preloader.4b4fa2fc.svg",
+    "static/media/profile.b579f09b.png": "/it-samurai/static/media/profile.b579f09b.png",
+    "static/media/user.96e310a6.png": "/it-samurai/static/media/user.96e310a6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54fe82b8.js",
+    "static/js/2.d969b46c.chunk.js",
+    "static/css/main.4e3f88fc.chunk.css",
+    "static/js/main.f87fe084.chunk.js"
+  ]
+}
